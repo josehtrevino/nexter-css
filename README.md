@@ -1,5 +1,5 @@
 # Nexter Website
 
-This website was created by using HTML and SCSS, in order to practice with techlogies such as Flexbox and Grid.
+This website was built using HTML and SCSS, in order to understand how to use Flexbox and Grid.
 
 ![Screenshot](./img/screenshot.png)
